@@ -1,2 +1,2 @@
 # PlottingWPython
-Git tutorial for plotting with python
+Git tutorial for plotting with python from rf class
